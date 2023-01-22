@@ -1,5 +1,5 @@
-# kollaboratives-schreiben
-Das Repository für Workshop "Kollaboratives Schreiben mit GitHub" am 10.5.2019.
+# GitHub als Schweizer Taschenmesser: Versionsverwaltung, Kollaboration, Projektmanagement, Veröffentlichungsplattform 
+Das Repository für bwWeiterbildung-Workshop "GitHub als Schweizer Taschenmesser: Versionsverwaltung, Kollaboration, Projektmanagement, Veröffentlichungsplattform" am 24.1.2023.
 
 # Markdown
 
