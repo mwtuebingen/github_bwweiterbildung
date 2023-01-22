@@ -9,7 +9,7 @@ GitHub, welches eine Art "Dialekt" von Markup verwendet, stellt hier eine deutsc
 
 # Mehr Informationen zu Git
 
-*Pro Git* von Scott Chacon und Ben Straub (2. Auflage, apress 2014), ein empfehlenswertes (englischsprachiges) Nachschlagewerk zu Git, ist kostenlos und ohne Registrierung erhältlich unter [https://git-scm.com/book/en/v2](https://git-scm.com/book/en/v2). Es gibt auch Übersetzungen in mehrere Sprachen, die deutsche Fassung ist leider zum jetzigen Zeitpunkt (Mai 2019) noch sehr rudimentär.
+*Pro Git* von Scott Chacon und Ben Straub (2. Auflage, apress 2014), ein empfehlenswertes Nachschlagewerk zu Git, ist in der deutschen Übersetzung kostenlos und ohne Registrierung erhältlich unter [https://git-scm.com/book/de/v2](https://git-scm.com/book/de/v2).
 
 # Probetext
 
