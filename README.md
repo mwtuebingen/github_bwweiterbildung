@@ -21,7 +21,6 @@ Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam nonumy eirmod 
 
 - Getränke
 - Salate
-- Nachspeisen
 - Vorspeisen
-- Fleisch/Fisch/Vegetarische
+- Hauptgerichte
 - Beilagen
