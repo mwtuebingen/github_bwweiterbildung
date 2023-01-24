@@ -1,1 +1,1 @@
-
+Bitte große Teller mitbringen
