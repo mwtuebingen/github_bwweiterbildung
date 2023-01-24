@@ -1,1 +1,4 @@
 
+**vegetarische Salate**
+- Kartoffelsalat
+- Nudelsalat
