@@ -1,1 +1,1 @@
-Schöne Grüße
+Schöne Grüße!
