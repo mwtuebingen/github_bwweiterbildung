@@ -1,11 +1,17 @@
 
-
-
-
+Heiße Getränke:
 * 3 Thermoskannen Matchatee
-* 10xCola (Bird)
-* 5 Kisten Mineralwasser ()
-* Apfelsaft, natrtrüb ()
-* Kirschsaft ()
-* Bananensaft
 
+=======
+      Was bitte ist denn Matchatee? Sowas wie Mate?
+Limos:
+* 10 x Cola (Bird)
+Wasser:
+* 5 Kisten Wasser mit Kohlensäure ()
+* Stilles Wasser
+Säfte:
+* Apfelsaft, naturtrüb ()
+* Kirschsaft ()
+* Orangensaft ()
+* Johannisbeersaft ()
+* Bananensaft ()
