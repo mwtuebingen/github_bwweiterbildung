@@ -3,8 +3,9 @@
 
 
 * 3 Thermoskannen Matchatee
-* Cola (Bird)
-* Mineralwasser ()
-* Apfelsaft ()
+* 10xCola (Bird)
+* 5 Kisten Mineralwasser ()
+* Apfelsaft, natrtrüb ()
 * Kirschsaft ()
+* Bananensaft
 
