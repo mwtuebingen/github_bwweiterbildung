@@ -6,14 +6,18 @@ Heiße Getränke:
 Der für Matcha vorgesehene Grüntee wird von Teesträuchern geerntet, die in der Regel vier Wochen vor der Ernte beschattet werden. Dadurch entsteht ein delikates, dunkelgrünes Blatt. Nach der Ernte werden die Teeblätter gedämpft, getrocknet und nach Entfernung aller groben Blattgefäße in Steinmühlen zu feinem Pulver gemahlen.
 
 Matcha gilt als eine besonders edle Teesorte und ist entsprechend teuer. Der Tee sollte gut verschlossen sowie kühl und trocken gelagert werden. 
-Limos:
-* Cola (Bird)
-* Spezi!
+
+* Glühwein
+
 Limos:
 * 10 x Cola (Bird)
+* Mineralwasser (Will)
+* Spezi!
+
 Wasser:
 * 5 Kisten Wasser mit Kohlensäure ()
 * Stilles Wasser
+
 Säfte:
 * Apfelsaft, naturtrüb ()
 * Kirschsaft ()
