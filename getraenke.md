@@ -1,10 +1,13 @@
 
-
-
-
+Heiße Getränke:
 * 3 Thermoskannen Matchatee
+Limos:
 * Cola (Bird)
-* Mineralwasser ()
+Wasser:
+* Wasser mit Kohlensäure ()
+* Stilles Wasser
+Säfte:
 * Apfelsaft ()
 * Kirschsaft ()
-
+* Orangensaft ()
+* Johannisbeersaft ()
