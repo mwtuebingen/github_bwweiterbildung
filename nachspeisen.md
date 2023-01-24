@@ -1,4 +1,5 @@
 
-Wie, kein Nachtisch, das wäre aber schade.
- Mousse au choc....
-Schwarzwälderkirschtorte
+* Mousse au choc....
+* Schwarzwälderkirschtorte
+* Obstsalat
+* Vanille-Pudding (vegan)
