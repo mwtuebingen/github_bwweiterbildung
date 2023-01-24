@@ -2,5 +2,13 @@
 **vegetarische Salate**
 - Kartoffelsalat
 - Nudelsalat
+
+
+**süße Salate**
+- Obstsalat
 - Karottensalat
-Thunfisch wäre auch nicht schlecht
+
+**Fischiges**
+- Thunfischsalat
+
+

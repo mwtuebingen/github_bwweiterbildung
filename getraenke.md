@@ -1,5 +1,14 @@
 
+Heiße Getränke:
+* 3 Thermoskannen Matchatee
+      Was bitte ist denn Matchatee? Sowas wie Mate?
+Limos:
 * Cola (Bird)
-* Mineralwasser ()
+Wasser:
+* Wasser mit Kohlensäure ()
+* Stilles Wasser
+Säfte:
 * Apfelsaft ()
 * Kirschsaft ()
+* Orangensaft ()
+* Johannisbeersaft ()
