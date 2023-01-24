@@ -1,5 +1,10 @@
 
 
 
-5 Kisten Wasser
-3 Thermoskannen Matchatee
+
+* 3 Thermoskannen Matchatee
+* Cola (Bird)
+* Mineralwasser ()
+* Apfelsaft ()
+* Kirschsaft ()
+
