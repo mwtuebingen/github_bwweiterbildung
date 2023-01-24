@@ -3,9 +3,9 @@
 - Kartoffelsalat
 - Nudelsalat
 
-** süße Salate
+**süße Salate**
 - Obstsalat
 
-** Was Fischiges
-Thunfisch wäre auch nicht schlecht
+**Fischiges**
+- Thunfischsalat
 
