@@ -1,3 +1,7 @@
+---
+layout: default
+---
+
 # Beispieltext
 
 ## Kapitel 1
