@@ -3,3 +3,4 @@
 * Schwarzwälderkirschtorte
 * Obstsalat
 * Vanille-Pudding (vegan)
+* Apfelkuchen
